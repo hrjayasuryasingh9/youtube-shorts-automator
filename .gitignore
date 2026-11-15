@@ -1,0 +1,16 @@
+# secrets
+client_secret.json
+token.pickle
+.env
+# runtime data
+__pycache__/
+*.pyc
+ai_videos/
+downloads/
+ai_videos.json
+uploaded_ids.json
+uploaded_videos.json
+# frontend
+node_modules/
+dist/
+.venv/
